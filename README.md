@@ -1,7 +1,7 @@
 # 021_PyFunding_Deep_Learning
  Using Neural Networks and Machine Learning to create a binary classifier to predict the success of funding applicants.
 
-Note: Analysis portion of this project is included at the bottom of both PyFunding_1.ipynb and PyFunding_2.ipynb.
+Note: Analysis portion of this project is included at the bottom of both PyFunding_1.ipynb and PyFunding_2.ipynb.  Both notebooks have the same analysis.
 
 Sources:
 - IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/.
